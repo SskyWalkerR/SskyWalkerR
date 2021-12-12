@@ -12,4 +12,4 @@
 
 ### Current working directory
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SskyWalkerR&repo=movieflix)](https://github.com/SskyWalkerR/SskyWalkerR) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SskyWalkerR&repo=movieflix)](https://github.com/SskyWalkerR/movieflix) 
