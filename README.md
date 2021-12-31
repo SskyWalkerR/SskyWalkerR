@@ -17,4 +17,4 @@
 
 ### Current working directory
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SskyWalkerR&repo=movieflix)](https://github.com/SskyWalkerR/Cryptoose) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SskyWalkerR&repo=Cryptoose)](https://github.com/SskyWalkerR/Cryptoose) 
